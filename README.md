@@ -18,13 +18,14 @@ A powerful, multi-threaded vulnerability scanner designed to detect exposed admi
    git clone https://github.com/yourusername/xebac-hat.git
    cd xebac-hat
 Install dependencies:
-
 bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 requests
 beautifulsoup4
 dnspython
 paramiko
+
+
 
 🛠️ Usage
 Run the tool with a target URL:
