@@ -21,6 +21,11 @@ Install dependencies:
 
 bash
 pip install -r requirements.txt
+requests
+beautifulsoup4
+dnspython
+paramiko
+
 🛠️ Usage
 Run the tool with a target URL:
 Or run it interactively:
