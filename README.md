@@ -36,7 +36,6 @@ This tool is for educational purposes and authorized penetration testing only. D
 python xebachat.py -u http://example.com -t 20
 Developed by [XEBAC HAT]
 
-text
 
 ---
 
